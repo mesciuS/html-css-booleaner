@@ -18,3 +18,22 @@ header img {
     height: 40px;
 }
 
+main {
+    padding-left: 8px;
+}
+.grey-text {
+    color: grey;
+}
+
+.date {
+    font-size: 12px;
+}
+
+.paragrafo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list {
+    padding-inline-start: 40px;
+}
