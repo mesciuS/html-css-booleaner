@@ -29,11 +29,28 @@ main {
     font-size: 12px;
 }
 
-.paragrafo {
+.paragrafo, .list {
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
 .list {
     padding-inline-start: 40px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #149ce6;
+    color: white;
+}
+
+.row-blue {
+    background-color: #b2def2;
+}
+
+.half-width {
+    width: 50%;
 }
