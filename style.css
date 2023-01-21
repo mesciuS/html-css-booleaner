@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url('../img/pattern.png');
+    background-size: auto 200%;
+    background-color: #4d92ff;
+
+    padding-top: 40px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+
+header img {
+    height: 40px;
+}
+
